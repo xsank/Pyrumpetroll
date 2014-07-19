@@ -30,5 +30,5 @@ class WSHandler(tornado.websocket.WebSocketHandler):
         WSHandler.broadcast(message)
 
     def on_close(self):
-        #self.write_message(object_to_json(CloseData(id(self))))
         WSHandler.clients.remove(self)
+        WSHandler.broadcast(object_to_json(CloseData(id(self))))
