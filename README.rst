@@ -24,4 +24,3 @@ Preview
 -------
 
 ![GitHub](https://github.com/xsank/Pyrumpetroll/tree/master/preview/preview.png "Preview image")
-<img src="https://github.com/xsank/Pyrumpetroll/tree/master/preview/preview.png" alt="GitHub" title="GitHub,Social Coding" width="600" height="400" />
