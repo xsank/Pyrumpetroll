@@ -23,4 +23,4 @@ Now it works and seems like the http://rumpetroll.com/
 Preview
 -------
 
-![GitHub](https://github.com/xsank/Pyrumpetroll/tree/master/preview/preview.png "Preview image")
+![image](https://github.com/xsank/Pyrumpetroll/tree/master/preview/preview.png "Preview image")
