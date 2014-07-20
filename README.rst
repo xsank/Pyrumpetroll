@@ -18,3 +18,9 @@ python main.py
 
 
 Now it works and seems like the http://rumpetroll.com/
+
+
+Preview
+-------
+
+![image](https://github.com/xsank/Pyrumpetroll/tree/master/preview/preview.png)
