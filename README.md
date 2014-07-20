@@ -2,8 +2,8 @@ Pyrumpetroll
 ====================
 
 
-Pyrumpetroll is a multiplayer-chat-room. It learn from the Rumpetroll. That one is written in ruby,
-but this one is written in python and it support Chinese.
+Pyrumpetroll is a multiplayer-chat-room. It learns from the Rumpetroll. That one is written in ruby,
+but this one is written in python and it supports Chinese.
 
 License: MIT (see LICENSE)
 
