@@ -10,11 +10,13 @@ License: MIT (see LICENSE)
 Information
 -----------
 
-git clone https://github.com/xsank/Pyrumpetroll.git
+1.git clone https://github.com/xsank/Pyrumpetroll.git
 
-pip install tornado
+2.pip install tornado
 
-python main.py
+3.then change the Settings.js's socketserver url to your local ip or your domain
+
+4.python main.py
 
 
 Now it works and seems like the http://rumpetroll.com/
