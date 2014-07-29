@@ -26,3 +26,12 @@ Preview
 -------
 
 ![image](https://raw.githubusercontent.com/xsank/Pyrumpetroll/master/preview/preview.png "Preview image")
+
+
+Others
+-------
+
+I have tried to deploy the Pyrumpetroll on the SAE,but it seems that the cloud-service don't support the
+websocket. For example,i have to use SAE's channel to support long-connection,but it means the Pyrumpetroll
+have to change a lot of code. So deploy the Pyrumpetroll on the vps our your personal server is the best and
+easiest way.
